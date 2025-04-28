@@ -1,4 +1,4 @@
-@import url(/css/varibales.css);
+@import url(./css/varibales.css);
 
 main {
     display: flex;
@@ -19,7 +19,7 @@ section {
     --color-primario: var(--color-terciario); 
     width: 50%;
     margin: 20px;
-    position: relative;
+    position: relative;     
     border-radius: 5%;
     background-color: var(--color-primario); 
     box-shadow: 1px 1px 12px #000;
