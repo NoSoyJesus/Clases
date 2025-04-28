@@ -1,3 +1,5 @@
+@import url(/css/varibales.css);
+
 main {
     display: flex;
     flex-direction: column;
